@@ -26,7 +26,7 @@
 ## Learn more at 'https://www.gitpod.io/docs/multi-repo-workspaces'
 
 additionalRepositories:
-  - url: https://github.com/gitpod-io/demo-multi-repo-backend
+  - url: https://github.com/jimmybrancaccio/demo-multi-repo-backend
      # checkoutLocation is optional and relative to /workspaces.
      # by default the location defaults to the repository name.
     checkoutLocation: backend
